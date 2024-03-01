@@ -9,8 +9,8 @@ The Batch script prompts for a file or folder path and then attempts to take own
 To run the Batch script, follow these steps:
 
 1. Open a command prompt with administrative privileges.
-2. Navigate to the directory where the Batch script is located.
-3. Run the script by typing its name and pressing Enter.
+2. Navigate to the directory where the Batch script is located. (cd "directory location here") I.E. cd C:\Users\abcd\Desktop
+3. Run the script by typing its name and pressing Enter. I.E. Ownership
 
 ## PowerShell Version
 
@@ -20,7 +20,7 @@ To run the PowerShell script, follow these steps:
 
 1. Open PowerShell with administrative privileges.
 2. Navigate to the directory where the PowerShell script is located.
-3. Run the script by typing `.\scriptname.ps1` and pressing Enter, replacing `scriptname` with the name of the script.
+3. Run the script by typing `.\Ownership.ps1` and pressing Enter.
 
 ## Disclaimer
 
